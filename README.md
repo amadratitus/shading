@@ -52,3 +52,7 @@ int main(int argc, char** argv) {
     return 0;
 }
 ```
+**Final Output**
+![Screenshot (173)](https://github.com/amadratitus/shading/assets/117981104/12322b81-9d4c-4de6-a2e3-aff87010d0f9)
+
+
